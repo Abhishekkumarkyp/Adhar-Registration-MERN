@@ -1,0 +1,11 @@
+for backend: 
+    cd server
+    npm install
+    node index
+for frontend:
+    npm install
+    npm start
+for database steps:
+    -1 install mongodb
+    -2 create databse named "crud" and model users
+    -3 not by should be default :- mongodb://localhost:27017/
